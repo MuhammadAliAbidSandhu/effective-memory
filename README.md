@@ -1,4 +1,4 @@
-# Hi there, I'm [Muhammad Ali Abid Sandhu] 👋
+# Hi there, I'm Muhammad Ali Abid Sandhu 👋
 
 ## Skills
 - *Languages*: [JavaScript, Python, Java]
