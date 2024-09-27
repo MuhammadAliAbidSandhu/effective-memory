@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a civil engineer with expertise in 2D/3D drawi
 - Languages: Python, JavaScript
 - Frameworks: Django, React
 - Cloud: AWS, Azure
-- Tools: Git, GitHub Actions, Docker
+- Tools: Git, GitHub Actions
 
 ## 📫 How to reach me:
-- Email: (aliabidsandhu@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/muhammadaliabidsandhu/)
+- Email: aliabidsandhu@gmail.com
+- LinkedIn: https://www.linkedin.com/in/muhammadaliabidsandhu/
