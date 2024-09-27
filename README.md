@@ -16,5 +16,5 @@ Welcome to my GitHub profile! I'm a civil engineer with expertise in 2D/3D drawi
 - Tools: Git, GitHub Actions, Docker
 
 ## 📫 How to reach me:
-- Email: [Your Email](mailto:aliabidsandhu@gmail.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/muhammadaliabidsandhu/)
+- Email: (mailto:aliabidsandhu@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/muhammadaliabidsandhu/)
